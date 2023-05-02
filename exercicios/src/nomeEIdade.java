@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nomeEIdade {
+public class NomeEIdade {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
@@ -16,6 +16,7 @@ public class nomeEIdade {
             idade = scan.nextInt();
         }
 
-        System.out.println("Continua Aqui....");
+        System.out.println("Continua aqui...");
+
     }
 }
